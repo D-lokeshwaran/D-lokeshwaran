@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Full Stack Cloud<br>🎯 Goals: spring boot & react js devOps<br>🎲 Fun fact: I also want to be a freelancer</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Full Stack Cloud<br>🎯 Goals: spring boot & react js devOps<br>🎲 Fun fact: I also intrested in electronics</p>
 
 ###
 
