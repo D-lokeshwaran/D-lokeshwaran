@@ -35,9 +35,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="android logo"  />
 </div>
-
-###
-
-<h2 align="left">NOTE: Open in Fire Fox.</h2>
-
-###
