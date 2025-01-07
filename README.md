@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning C Programming<br>🎯 Goals: learn devOps, electronics and python<br>🎲 Fun fact: I also intrested in developing AI</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning DSA<br>🎯 Goals: learn devOps, electronics and python<br>🎲 Fun fact: I also intrested in developing AI</p>
 
 ###
 
